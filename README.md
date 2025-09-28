@@ -10,6 +10,8 @@ I'm a Site Reliability Engineer
 - 📝 [Tech Blog](https://hashnode.com/@imsparsh2001)  
 - 💻 [GitHub Portfolio](https://github.com/imsparsh2001)  
 
-⭐️ Thanks for visiting!
+[![Sparsh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imsparsh2001&custom_title=Sparsh's%20Contribution%20Graph&hide_border=true&area=true&bg_color=1a1d21&color=fa9c1b&line=37d67a&point=10b981)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsparsh2001&show_icons=true&theme=radical)
+⭐️ Thank you very much
+
+
